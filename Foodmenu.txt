@@ -1,0 +1,11 @@
+MENU OF STADIUM CAFETERIA
+1. French Fries 		Rs.100
+2. Cheese Nachos  		Rs.150
+3. Veggie Cheese Burger  	Rs.200
+4. Vadapav 			Rs.50
+5. Dabeli  			Rs.50
+6. Fried Chicken Burger  	Rs.200
+7. Popcorn  			Rs.100
+8. Aloo Sandwich  		Rs.100
+9. Veggie Sandwich 	 	Rs.120
+10 . Beverages 			Rs.80
